@@ -14,5 +14,7 @@ public class MainTest {
         System.out.println("40");
 
         System.out.println("50");
+
+        System.out.println("60");
     }
 }
