@@ -10,5 +10,7 @@ public class MainTest {
         System.out.println("hello");
 
         System.out.println("update");
+
+        System.out.println("40");
     }
 }
