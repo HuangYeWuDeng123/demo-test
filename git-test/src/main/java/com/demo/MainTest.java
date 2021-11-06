@@ -20,5 +20,7 @@ public class MainTest {
         System.out.println("hot-fix commit");
 
         System.out.println("hot-fix commit2");
+
+        System.out.println("测试2");
     }
 }
