@@ -16,5 +16,7 @@ public class MainTest {
         System.out.println("50");
 
         System.out.println("main commit");
+
+        System.out.println("hot-fix commit");
     }
 }
