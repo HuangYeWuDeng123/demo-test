@@ -11,6 +11,8 @@ public class MainTest {
 
         System.out.println("update");
 
+        System.out.println("测试");
+
         System.out.println("40");
 
         System.out.println("50");
