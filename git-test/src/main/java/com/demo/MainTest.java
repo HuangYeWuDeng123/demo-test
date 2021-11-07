@@ -7,22 +7,6 @@ package com.demo;
  **/
 public class MainTest {
     public static void main(String[] args) {
-        System.out.println("hello");
-
-        System.out.println("update");
-
-        System.out.println("测试11");
-
-        System.out.println("40");
-
-        System.out.println("50");
-
-        System.out.println("main commit");
-
-        System.out.println("hot-fix commit");
-
-        System.out.println("hot-fix commit2");
-
-        System.out.println("测试2");
+        System.out.println("test1");
     }
 }
