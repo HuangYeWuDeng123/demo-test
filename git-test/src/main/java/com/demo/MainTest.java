@@ -12,7 +12,5 @@ public class MainTest {
         System.out.println("test2");
 
         System.out.println("test3");
-
-        System.out.println("hot-fix1 commit1");
     }
 }
