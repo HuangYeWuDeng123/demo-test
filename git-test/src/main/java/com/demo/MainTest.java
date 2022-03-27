@@ -17,6 +17,9 @@ import java.util.regex.Pattern;
  **/
 @Deprecated
 public class MainTest {
+
+    private String v5;
+
     public static void main(String[] args) throws Exception {
         // System.out.println("test1");
         //
