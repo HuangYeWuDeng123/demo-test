@@ -14,4 +14,5 @@ public class Test123 {
     private String v8;
     private String v9;
     private String v10;
+    private String dev001;
 }
