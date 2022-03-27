@@ -7,4 +7,5 @@ package com.demo;
  **/
 public class Dev {
     private String v1;
+    private String devv2;
 }
