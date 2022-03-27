@@ -19,6 +19,7 @@ import java.util.regex.Pattern;
 public class MainTest {
 
     private String v5;
+    private String v6;
 
     public static void main(String[] args) throws Exception {
         // System.out.println("test1");
