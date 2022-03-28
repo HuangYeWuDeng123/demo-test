@@ -9,4 +9,6 @@ public class Test {
     private String testv1;
 
     private String testv2;
+
+    private String testv3;
 }
