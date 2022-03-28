@@ -7,6 +7,4 @@ package com.demo;
  **/
 public class Common {
     private String commonV1;
-
-    private String devv4;
 }
