@@ -10,4 +10,5 @@ public class Dev {
     private String devv2fix;
     private String devv3fix;
     private String devv4fix;
+    private String devv5fix;
 }
