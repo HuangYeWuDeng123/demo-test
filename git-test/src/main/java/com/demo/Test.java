@@ -15,4 +15,6 @@ public class Test {
     private String testv4;
 
     private String testv5;
+
+    private String testv6;
 }
