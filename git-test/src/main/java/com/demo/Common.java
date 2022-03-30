@@ -9,4 +9,6 @@ public class Common {
     private String commonV1;
 
     private String devv5;
+
+    private String devv6;
 }
