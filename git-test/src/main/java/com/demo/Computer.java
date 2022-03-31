@@ -11,6 +11,7 @@ public class Computer {
     private final int usbCount;//可选
     private final String keyboard;//可选
     private final String display;//可选
+    private String testErrorMerge;
 
     private Computer(Builder builder) {
         this.cpu = builder.cpu;
