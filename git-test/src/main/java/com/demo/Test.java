@@ -17,4 +17,6 @@ public class Test {
     private String testv5;
 
     private String testv6;
+
+    private String testErrorMsg;
 }
