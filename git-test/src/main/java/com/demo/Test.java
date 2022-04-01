@@ -17,4 +17,10 @@ public class Test {
     private String testv5;
 
     private String testv6;
+
+    private String testErrorMsg;
+
+    private String testv7;
+
+    private String testv8;
 }
