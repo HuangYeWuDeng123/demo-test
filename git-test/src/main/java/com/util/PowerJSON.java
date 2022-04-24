@@ -248,7 +248,7 @@ public class PowerJSON extends JSONObject {
 	 * <p>在指定选择器下工作，返回选择之后的对象</p>
 	 *
 	 * @param selector
-	 * @return com.chinaunicom.cbss2.beeaction.bean.base.PowerJSON
+	 * @return 
 	 * @author mengqk
 	 * @since [2019/6/21]
 	 * @version 1.0
